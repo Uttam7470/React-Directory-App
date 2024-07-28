@@ -1,0 +1,29 @@
+/* src/pages/RetrieveInfo.css */
+.RetrieveInfo {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .RetrieveInfo input {
+    width: calc(100% - 150px);
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .RetrieveInfo button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .RetrieveInfo table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .RetrieveInfo th, .RetrieveInfo td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
